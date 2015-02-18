@@ -4,5 +4,7 @@
     <string name="app_name">USM</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="inputEmail_empty">input username/email is empty!</string>
+    <string name="inputPassword_empty"> input password is empty</string>
 
 </resources>
